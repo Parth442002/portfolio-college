@@ -2,46 +2,65 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🕹️ HackerRank",
+      "title": "HackerRank Regex in Python",
+      "description": "Solved Regular Expression problems and algorithms using Python language in HackerRank online platform",
+      "tags": ["Regex", "Python"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/hackerX.png",
         "alt": "Quick Setup",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+      }
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🕹️ Computer Networks",
+      "title": "E Polling Project",
+      "description": "We made an online Electronic Polling Platform which uses networking concepts such as Sockets, client-server connection, TCP/IP etc.",
+      "tags": ["Computer Networks", "Python"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/CNProject.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      }
+    },
+    {
+      "visible": true,
+      "category": "🕹️ Meta",
+      "title": "Introduction to backend Development",
+      "description": "In this module, you will learn about the different types of web developers and the roles and responsibilities of front-end, back-end, and full-stack developers. You will take a first look at the core technologies of HTML, CSS, and Javascript and explore the concepts that underpin how the internet works.",
+      "tags": ["Backend Development", "Django"],
+      "image": {
+        "src": "../../images/MetaParth.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      }
+    },
+    {
+      "visible": true,
+      "category": "🧰 DeepLearning.ai",
+      "title": "DeepLearning.ai Specialization",
+      "description": "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new “superpower” that will let you build AI systems that just weren’t possible a few years ago.",
+      "tags": ["DeepLearning", "Python"],
+      "image": {
+        "src": "../../images/DeepLearning.jpeg",
         "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+      }
+    },
+    {
+      "visible": true,
+      "category": "🎉 Udemy",
+      "title": "Machine Learning A-Z",
+      "description": "If you want to break into cutting-edge AI, this course will help you do so. Machine Learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new “superpower” that will let you build AI systems that just weren’t possible a few years ago.",
+      "tags": ["Machine Learning", "Python"],
+      "image": {
+        "src": "../../images/Udemy.jpeg",
+        "alt": "Extendable Layout"
+      }
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
